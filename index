@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+</head>
+<body>
+
+    <header>
+        <h1>Yuliana Silva Apaza </h1>
+        <p>Desarrollador Web</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Sobre mí</a></li>
+            <li><a href="#">Proyectos</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <section>
+            <h2>Sobre mí</h2>
+            <p>Soy un estudiante apasionado por la tecnología y el desarrollo web. Me gusta aprender nuevas herramientas y crear soluciones digitales.</p>
+        </section>
+
+        <section>
+            <h2>Mis Proyectos</h2>
+
+            <article>
+                <h3>Proyecto 1</h3>
+                <p>Desarrollé una página web básica utilizando HTML para mostrar información personal.</p>
+            </article>
+
+            <article>
+                <h3>Proyecto 2</h3>
+                <p>Creé una estructura web semántica aplicando buenas prácticas de organización del contenido.</p>
+            </article>
+
+        </section>
+
+    </main>
+
+    <aside>
+        <h3>Habilidades</h3>
+        <ul>
+            <li>HTML</li>
+            <li>Trabajo en equipo</li>
+            <li>Comunicación</li>
+        </ul>
+    </aside>
+
+    <footer>
+        <p>© 2026 Juan Pérez - Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
